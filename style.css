@@ -1,0 +1,19 @@
+#menu {
+    padding: 0 45px 0 45px;
+    background: #209D9D;
+    border-top: solid 1px #5AD7D7;
+
+}
+    
+#menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.25em;
+}
+#menu a:hover{
+    color: blue;
+}
+#menu ul li {
+    padding: 0 20px 0 20px;
+    display: inline;
+}
